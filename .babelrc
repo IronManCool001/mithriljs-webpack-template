@@ -1,0 +1,12 @@
+{
+    "presets": [
+      [
+        "@babel/preset-react",
+        {
+          "pragma": "m", // default pragma is React.createElement (only in classic runtime)
+          "pragmaFrag": "'['" // default is React.Fragment (only in classic runtime)
+        }
+      ],
+      ["@babel/preset-env",{"modules": "umd"}]
+    ]
+  }
