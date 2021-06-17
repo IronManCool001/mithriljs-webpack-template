@@ -8,13 +8,7 @@ Run ` yarn install ` or ` npm i ` to install the dependencies
 
 # Dev
 use 
-```cli
-yarn dev 
-```
-or 
-```cli
-npm run dev
-```
+`yarn dev ` or  ` npm run dev `
 To start webpack in development mode,you will also need to run a http server seperately in the directory to view the result.
 
 # Build
