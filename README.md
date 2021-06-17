@@ -1,7 +1,7 @@
 # mithriljs-webpack-template
 
 This is a webpack template for mithriljs that uses jsx.
-Demo URL:https://mithriljs-webpacke-template-demo.netlify.app/
+Demo URL:https://mithriljs-webpack-template-demo.netlify.app/
 
 # Install
 
